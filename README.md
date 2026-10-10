@@ -1,34 +1,38 @@
-# AYMAN-OS
-My first Cyber Toolkit from Berrechid Morocco`
-# AYMAN-OS v1.0 🇲🇦
-### Cyber Toolkit Made in Berrechid, Morocco
+# 🛡️ AYMAN-OS v2.0
+### Cyber Security Toolkit - Made in Morocco 🇲🇦
 
-![Python](https://img.shields.io/badge/Python-3.x-blue)
-![Made In](https://img.shields.io/badge/Made%20In-Morocco-red)
-![Status](https://img.shields.io/badge/Status-Active-success)
-
-> **First Cyber Security Tool by Ayman from Berrechid to the World!**
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.8%2B-blue?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/Made%20in-Morocco-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Version-2.0-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/By-AYMAN-yellow?style=for-the-badge" />
+</p>
 
 ---
 
-## 🚀 Chnou fih AYMAN-OS?
+## 👨‍💻 About Me
+**AYMAN** - 17yo Cyber Security Enthusiast from **Berrechid, Morocco** 🇲🇦
+- Founder of AYMAN-OS
+- Python Developer
+- Learning Ethical Hacking
 
-AYMAN-OS howa toolkit dyal Cyber Security, bditou men 0!
+🔗 **Profile:** [github.com/aymanamirate23-cell](https://github.com/aymanamirate23-cell/AYMAN-OS)
 
-**Version 1.0 fih:**
-- ✅ **Port Scanner** - Kay scani les ports dyal ay site wla IP
-- ✅ Darija 100% - Interface sahla
-- ✅ Fast & Simple
+---
 
-## 💻 Kifach Tkhdem Bih?
+## 🚀 Features
+- ✅ **Port Scanner** - Scan open ports (21,22,80,443...)
+- ✅ **IP Info** - Get country, city, ISP info
+- ✅ **My IP** - Show your public IP
+- ✅ **Cool Banner** - ASCII art hacker style
 
-### Tari9a 1: F Telephone (Sahla)
-1. Sir l [programiz.com/python](https://www.programiz.com/python-programming/online-compiler/)
-2. Copier code li f `AYMAN_OS.py`
-3. Dir Coller w cliqui `Run`
+---
 
-### Tari9a 2: F PC
+## 💻 How to Use
+
 ```bash
-git clone https://github.com/AYMANE/AYMAN-OS.git
-cd AYMAN-OS
+# Install requirements
+pip install requests colorama
+
+# Run AYMAN-OS
 python AYMAN_OS.py
